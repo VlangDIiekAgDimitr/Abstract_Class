@@ -9,6 +9,8 @@ package iek.agdimitr.abstractandinterface;
  *
  * @author User
  */
+// Πρόγραμμα Java για παρουσίαση
+// της έννοιας της abstract class
 public class Circle extends Shape {
 
     double pi = 3.14;

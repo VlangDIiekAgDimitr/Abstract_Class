@@ -9,6 +9,10 @@ package iek.agdimitr.abstractandinterface;
  *
  * @author avlonitiss
  */
+
+// Πρόγραμμα Java για παρουσίαση
+// της έννοιας της abstract class
+
 public abstract class Shape {
      // Δήλωση πεδίων
     String objectName = " ";

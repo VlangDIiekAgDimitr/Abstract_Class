@@ -9,6 +9,9 @@ package iek.agdimitr.abstractandinterface;
  *
  * @author User
  */
+
+// Πρόγραμμα Java για παρουσίαση
+// της έννοιας της abstract class
 public class Rectangle extends Shape {
     
       // Προσθήκη νέων πεδίων
